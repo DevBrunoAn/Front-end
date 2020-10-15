@@ -1,54 +1,77 @@
-@media ( max-width: 1900px) {
-    body {
-        background-size: 880px;
-    }
+@media (max-width: 1900px) {
+  body {
+    background-size: 880px;
+  }
 }
 
 @media (max-width: 1850px) {
-    body{
-        background-size: 840px;
-    }
+  body {
+    background-size: 840px;
+  }
 }
 
 @media (max-width: 1750px) {
-    body{
-        background-size: 800px;
-    }
+  body {
+    background-size: 800px;
+  }
 }
 
 @media (max-width: 1650px) {
-    body{
-        background-size: 750px;
-    }
+  body {
+    background-size: 750px;
+  }
 }
 
-@media (max-width: 1550px) {
-    body{
-        background-size: 710px;
-    }
+@media (max-width: 1560px) {
+  body {
+    background-size: 710px;
+  }
 }
 
 @media (max-width: 1450px) {
-    body{
-        background-size: 665px;
-    }
+  body {
+    background-size: 665px;
+  }
 }
 
 @media (max-width: 1350px) {
-    body{
-        background-size: 620px;
-    }
+  body {
+    background-size: 620px;
+  }
 }
 
 @media (max-width: 1250px) {
-    body{
-        background-position-x: -50px !important;
-    }
+  body {
+    background-position-x: -50px !important;
+  }
 }
 
 @media (max-width: 1100px) {
-    body{
-        background-position-x: -100px ;
-    }
+  body {
+    background-position-x: -100px;
+  }
 }
 
+@media (max-width: 1558px) {
+  body {
+    background-size: 740px;
+  }
+}
+
+@media (max-height: 1900px) {
+  body {
+    height: 820px;
+  }
+}
+
+@media (max-height: 1350px) {
+  body {
+    height: 829px;
+  }
+}
+
+@media (max-height: 1600px) {
+  body {
+    height: 860px;
+  }
+}
