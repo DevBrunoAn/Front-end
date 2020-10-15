@@ -1,0 +1,23 @@
+@media(max-width: 1150px) {
+    .container {
+        width: 950px;
+    }
+}
+
+@media(max-width: 1024px) {
+    .container {
+        width: 800px;
+    }
+    .sobre-web-desing figcaption img{
+        width: 600px;
+    }
+}
+
+@media(max-widht: 915px) {
+    .container {
+        width: 600px;
+    }
+    .row{
+        flex-direction: column;
+    }
+}
