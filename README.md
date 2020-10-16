@@ -1,1 +1,1 @@
-Front-endFront-end : https://glosyu.github.io/Front-end/ // Responsive
+Front-end : https://glosyu.github.io/Front-end/ // Responsive
